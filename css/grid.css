@@ -1,0 +1,11 @@
+.grid-container {
+    display: grid;
+    row-gap: 10px;
+}
+
+
+.grid-item {
+    background: rgb(71, 71, 78);
+    width: 100px;
+    height: 100px;
+}
